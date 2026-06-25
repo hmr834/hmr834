@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!;Welcome+to+my+profile)]
-![Visitors](https://komarev.com/ghpvc/?username=hmr834&color=blue)
+[![Visitors](https://komarev.com/ghpvc/?username=hmr834&color=blue)]
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmr834&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmr834&layout=compact)
 <!--
